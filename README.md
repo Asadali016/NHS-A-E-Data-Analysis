@@ -24,4 +24,11 @@ While the study’s scope is limited to six trusts, it lays the groundwork for a
 comprehensive analysis encompassing all NHS trusts, potentially transforming A&E
 management practices across the UK.
 
+Dataset:
+Data collected is online available on NHS A&E website for free. We appreciate NHS A&E department for providing open-source A&E data.
+
 Files Overview:
+Average: Average performing NHS Trust selected using the percentage of patient treated with 4 hour waiting time (between 60%-80%).
+Best: Best performing NHS Trust selected using the percentage of patient treated with 4 hour waiting time (above 80%).
+Worst: Worst performing NHS Trust selected using the percentage of patient treated with 4 hour waiting time (below 50%).
+Combined: Data is combined for data analytics.
