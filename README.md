@@ -28,7 +28,13 @@ Dataset:
 Data collected is online available on NHS A&E website for free. We appreciate NHS A&E department for providing open-source A&E data.
 
 Files Overview:
+
 Average: Average performing NHS Trust selected using the percentage of patient treated with 4 hour waiting time (between 60%-80%).
+
 Best: Best performing NHS Trust selected using the percentage of patient treated with 4 hour waiting time (above 80%).
+
 Worst: Worst performing NHS Trust selected using the percentage of patient treated with 4 hour waiting time (below 50%).
+
 Combined: Data is combined for data analytics.
+
+Google Colab file is attached which containes selecting best, average, and worst NHS trust based on performance and data visualisation.
